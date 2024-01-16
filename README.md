@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Ariel Sepúlveda</h1>
-<h3 >Desarrollador Full Stack de Santiago de Chile. Cuento con experiencia en JavaScript, Typescript, React, Angular, Bootstrap 5, Tailwind CSS, Java, Spring Boot y MySQL. Me gusta mantenerme actualizado en las últimas tendencias y tecnologías en el mundo del desarrollo de software por lo que estoy siempre dispuesto a capacitarme y mejorar mis habilidades. También soy efectivo trabajando tanto de forma independiente como en equipo y bajo metodologías ágiles.</h3>
+<h3 >Desarrollador Full Stack de Santiago de Chile. Cuento con experiencia en JavaScript, Typescript, React, Next.js, Angular, Bootstrap 5, Tailwind CSS, Java, Spring Boot y MySQL. Me gusta mantenerme actualizado en las últimas tendencias y tecnologías en el mundo del desarrollo de software por lo que estoy siempre dispuesto a capacitarme y mejorar mis habilidades.</h3>
 
 - 👨‍💻 Mis proyectos estan disponibles en [https://github.com/a-sepulveda-r?tab=repositories](https://github.com/a-sepulveda-r?tab=repositories)
 
